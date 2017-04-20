@@ -2,4 +2,4 @@
 
 import tensorflow as tf
 tf.__version__
-#tf 버젼 확인 코드
+# python3로 열고 tf 버젼 확인 코드
