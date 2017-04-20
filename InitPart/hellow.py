@@ -6,4 +6,4 @@ hello = tf.constant("Hello")
 sess = tf.Session()
 print(sess.run(hello))
 
-# hello World
+# python3로 열고 hello World찍히지는지 확인코드
